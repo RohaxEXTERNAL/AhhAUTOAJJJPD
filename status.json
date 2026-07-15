@@ -1,5 +1,5 @@
 {
-  "auto_update_enabled": true,
-  "maintenance_mode": true,
+  "auto_update_enabled": false,
+  "maintenance_mode": false,
   "message": ""
 }
